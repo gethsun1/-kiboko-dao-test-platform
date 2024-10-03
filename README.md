@@ -1,7 +1,7 @@
 # KibokoDAO Test Platform
 
 ----
-[![kibokoo.png](https://i.postimg.cc/wj60LyhX/kibokoo.png)](https://postimg.cc/ZCM8hqsn)
+[![kibokoo.png](https://i.postimg.cc/wj60LyhX/kibokoo.png)]
 
 ----
 
