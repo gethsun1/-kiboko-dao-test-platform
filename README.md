@@ -108,15 +108,6 @@ Gethsun, Lead Developer - GitHub
 
 ---
 
-### Key Sections:
-- **Overview**: Describes what the project is and its purpose.
-- **Features**: Lists core functionalities.
-- **Technologies Used**: Highlights the tech stack used.
-- **Getting Started**: Provides detailed instructions for installing and running the app locally.
-- **Usage**: Explains how to use the DApp features.
-- **Contributing**: Instructions for contributing to the project.
-- **Contact**: Your contact info.
-
 
 
 
