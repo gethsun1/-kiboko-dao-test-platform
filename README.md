@@ -41,9 +41,10 @@ To run the project locally, you need:
   cd kiboko-dao-test-platform/client
 
 3. **Install dependencies**:
+    ```bash
    npm install
 
-4. **Set up environment variables**:
+5. **Set up environment variables**:
 
 Create a .env file in the client directory and add the following:
 
