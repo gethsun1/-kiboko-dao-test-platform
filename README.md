@@ -1,5 +1,10 @@
 # KibokoDAO Test Platform
 
+----
+[![kibokoo.png](https://i.postimg.cc/wj60LyhX/kibokoo.png)](https://postimg.cc/ZCM8hqsn)
+
+----
+
 ## Overview
 
 The **KibokoDAO Test Platform** is a decentralized web application (DApp) designed to provide an easy-to-use interface for testing core functionalities of the Musk Link (MLNK) token. The platform allows users to connect their Phantom wallets, check token balances, and swap MLNK tokens with USDC/USDT on the Solana Devnet. This test environment serves as a prototype for testing features before deploying them to the Solana mainnet.
