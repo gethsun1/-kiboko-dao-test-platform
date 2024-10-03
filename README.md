@@ -63,6 +63,7 @@ The app should automatically open in your default browser at http://localhost:30
 
 **Project Structure**
 
+```bash
 /kiboko-dao-test-platform/
   ├── /client/            # Frontend (React) application
       ├── /src/
